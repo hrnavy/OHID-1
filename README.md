@@ -12,4 +12,4 @@
 # code
  The "HSI_Classification" folder contains the code for ID CNN, 2D CNN, 3D CNN, and SVM. These codes are built upon the [HSI_Classification](https://github.com/zhangjinyangnwpu/HSI_Classification) repository, with the primary changes made in the unit.py file.
  The "HyLiTE" files store the HyLITE code. These codes are built upon  [HyLITE](https://github.com/zhoufangqin/hylite), with the main changes made in the main.py file. We have added code for reading some additional files to make it compatible with other datasets.
-_ To use the code, please follow the instructions from the original project code, configure the environment, and replace the file that we have changed. _
+_To use the code, please follow the instructions from the original project code, configure the environment, and replace the file that we have changed._
