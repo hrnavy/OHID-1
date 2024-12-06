@@ -1,6 +1,9 @@
 # OHID-1
  We build a new set of hyperspectral data with complex characteristics using data from Orbita and named it Orbita Hyperspectral Images Dataset-1 (OHID-1). It describes different type of areas at Zhuhai City, China. 
 
+# original data
+ [fusioned](https://pan.baidu.com/s/1qMtY7ossLwRh0pI2v2bnDg?pwd=bi70) code：bi70 
+ This link provides access to the raw data and annotations of the OHID-1 dataset, which includes two different data formats: MAT and TIF. All data have a size of 5056x5056 pixels. The raw data consists of 32 bands, while the annotation data consists of 1 band.
 # dataset
  The "image" folder contains 10 hyperspectral images, each with 32 spectral bands, a size of 512 × 512 pixels, and depicting 7 types of objects. The naming format is 201912_n.tif, where n ranges from 1 to 10.
  The "labels" folder contains the labels for the ten images in the "images" folder, with the same naming format of 201912_n.tif, where n also ranges from 1 to 10. Each label has values ranging from 0 to 7, and the category represented by each value can be found in sample_proportion.png.201912_n.png, 
