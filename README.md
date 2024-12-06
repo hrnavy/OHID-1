@@ -3,6 +3,7 @@
 
 # original data
  [fusioned](https://pan.baidu.com/s/1qMtY7ossLwRh0pI2v2bnDg?pwd=bi70) code：bi70 
+ 
  This link provides access to the raw data and annotations of the OHID-1 dataset, which includes two different data formats: MAT and TIF. All data have a size of 5056x5056 pixels. The raw data consists of 32 bands, while the annotation data consists of 1 band.
 # dataset
  The "image" folder contains 10 hyperspectral images, each with 32 spectral bands, a size of 512 × 512 pixels, and depicting 7 types of objects. The naming format is 201912_n.tif, where n ranges from 1 to 10.
