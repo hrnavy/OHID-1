@@ -14,7 +14,9 @@
  The "HSI_Classification" folder Provide the code for band synthesis and slicing of the original file.
 
 # code
- The 'code' folder contains two subfolders.
+ The 'code' folder contains two subfolders.We made modifications to the previous code to make it compatible with our dataset.
+
+ 
  The "HSI_Classification" folder contains the code for ID CNN, 2D CNN, 3D CNN, and SVM. These codes are built upon the HSI_Classification repository <https://github.com/zhangjinyangnwpu/HSI_Classification> , with the primary changes made in the unit.py file.
  The "HyLiTE" folder store the HyLITE code. These codes are built upon  HyLITE repository <https://github.com/zhoufangqin/hylite>, with the main changes made in the main.py file. We have added code for reading some additional files to make it compatible with other datasets.
 
